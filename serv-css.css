@@ -1,0 +1,14 @@
+body{
+    background-image: url("#");
+    background-repeat: no-repeat;
+    background-position: center;
+    text-align: center;
+}
+
+#service-selection{
+    
+    color:burlywood;
+    text-align:center;
+    margin-top: 250px;
+    font-size: 50px;
+}
